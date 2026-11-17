@@ -29,3 +29,15 @@ A pasta `data/` não é versionada. O script `01_preparar_dados.py` gera os arqu
 
 Dados abertos do CNPJ, Receita Federal: https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/
 Espelho usado (snapshot 2024-09): https://github.com/jonathands/dados-abertos-receita-cnpj
+
+## Plano das 3 semanas finais
+
+| Tarefa | Responsável | Prazo |
+|---|---|---|
+| Discussão | Alex | 24/11 |
+| Conclusão e resumo final | Kaike | 24/11 |
+| Repositório no GitHub e revisão das tabelas e figuras | Victor | 24/11 |
+| Revisão cruzada do artigo | Todos | 01/12 |
+| Slides da apresentação (10 a 15 min) | Kaike | 01/12 |
+| Ensaio da apresentação | Todos | 05/12 |
+| Entrega final | Victor | 08/12 |
