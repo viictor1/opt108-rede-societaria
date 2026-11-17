@@ -1,14 +1,20 @@
 # Rede de administradores compartilhados entre S.A. abertas brasileiras
 
 Projeto final da disciplina OPT108 (Análise de Redes Sociais Utilizando Grafos, UTFPR Campo Mourão).
-Grupo 7: Kaike Carvalho, Victor Almeida e Alex Magalhães.
+Grupo 7: Kaike Carvalho, Victor Almeida e Alex Magalhães. Orientador: Prof. André Luiz Satoshi Kawamoto.
 
 Duas S.A. abertas ficam ligadas quando dividem pelo menos um diretor, conselheiro ou presidente no Quadro de Sócios e Administradores (QSA) da Receita Federal. O peso da aresta é o número de administradores em comum.
 
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/viictor1/opt108-rede-societaria/blob/main/02_analise.ipynb)
+
 ## Como reproduzir
 
+**No Google Colab:** clique no botão acima e rode todas as células. A primeira célula clona o repositório e baixa os dados sozinha (alguns minutos).
+
+**Localmente:**
+
 ```bash
-pip install pandas networkx matplotlib scipy
+pip install pandas networkx matplotlib scipy adjustText
 python 01_preparar_dados.py   # baixa ~4 GB de zips da Receita (snapshot 2024-09) e gera data/
 jupyter notebook 02_analise.ipynb
 ```
@@ -20,10 +26,10 @@ A pasta `data/` não é versionada. O script `01_preparar_dados.py` gera os arqu
 | Arquivo | Conteúdo |
 |---|---|
 | `01_preparar_dados.py` | Baixa os arquivos Empresas, Sócios e Estabelecimentos e filtra as S.A. abertas (natureza jurídica 2046) |
-| `02_analise.ipynb` | Grafo bipartido, projeção, estatísticas descritivas, centralidades, Louvain, evolução temporal |
-| `figuras/` | Distribuição de graus, rede colorida por comunidade e evolução temporal |
-| `tabelas/` | Estatísticas descritivas, top 10 por centralidade, comunidades e evolução temporal |
-| `rede_sa_abertas.gexf` | Rede de empresas com as métricas, para abrir no Gephi |
+| `02_analise.ipynb` | Grafo bipartido, projeção, estatísticas descritivas, centralidades, Louvain, evolução temporal, correlação com capital social |
+| `figuras/` | Distribuição de graus, rede colorida por comunidade, evolução temporal e capital social |
+| `tabelas/` | Estatísticas descritivas, top 10 por centralidade, comunidades, evolução temporal e correlação com capital social |
+| `rede_sa_abertas.graphml` / `.gexf` | Rede de empresas com as métricas (GraphML para NetworkX/igraph, GEXF para o Gephi) |
 
 ## Fonte dos dados
 
