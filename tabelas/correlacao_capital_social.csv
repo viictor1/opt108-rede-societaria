@@ -1,0 +1,10 @@
+rede,métrica,n,rho,p
+rede inteira,grau,819,0.267,8.508224250355787e-15
+rede inteira,intermediacao,819,0.245,1.193274338083546e-12
+rede inteira,proximidade,819,0.317,1.3324950854047732e-20
+rede inteira,pagerank,819,0.277,6.460391616227224e-16
+maior componente,grau,117,0.019,0.8365615069961035
+maior componente,intermediacao,117,0.339,0.0001836625293475005
+maior componente,proximidade,117,0.264,0.0039867403256703534
+maior componente,pagerank,117,0.098,0.29543655976127736
+maior componente,autovetor,117,0.247,0.007277839527849755
