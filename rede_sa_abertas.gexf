@@ -103,7 +103,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.0167615852408225" />
           <attvalue for="5" value="0.0013055857306024593" />
-          <attvalue for="6" value="9.396377788664229e-13" />
+          <attvalue for="6" value="9.39654065095417e-13" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="2.0" />
           <attvalue for="8" value="6069409.21" />
@@ -143,7 +143,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.020818711671710215" />
           <attvalue for="5" value="0.0018027097257339439" />
-          <attvalue for="6" value="6.4436419471679296e-12" />
+          <attvalue for="6" value="6.443658850219964e-12" />
           <attvalue for="7" value="3511501" />
           <attvalue for="9" value="8.0" />
           <attvalue for="8" value="1823775052.41" />
@@ -183,7 +183,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.0167615852408225" />
           <attvalue for="5" value="0.0013055857306024593" />
-          <attvalue for="6" value="9.39646280921431e-13" />
+          <attvalue for="6" value="9.396403032816765e-13" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="2.0" />
           <attvalue for="8" value="0.0" />
@@ -340,7 +340,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.017683886839459362" />
           <attvalue for="5" value="0.0009680207571798824" />
-          <attvalue for="6" value="5.387777759999538e-05" />
+          <attvalue for="6" value="5.387777760000013e-05" />
           <attvalue for="7" value="4789099" />
           <attvalue for="9" value="3.0" />
           <attvalue for="8" value="39918251652.38" />
@@ -432,7 +432,7 @@
           <attvalue for="3" value="0.00022282098861366024" />
           <attvalue for="4" value="0.024768137594201916" />
           <attvalue for="5" value="0.0015629792636540625" />
-          <attvalue for="6" value="5.332872154161881e-09" />
+          <attvalue for="6" value="5.332872155795248e-09" />
           <attvalue for="7" value="5221400" />
           <attvalue for="9" value="9.0" />
           <attvalue for="8" value="57899999.89" />
@@ -446,7 +446,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.025024041369113056" />
           <attvalue for="5" value="0.0024344137346906693" />
-          <attvalue for="6" value="6.435879083366782e-09" />
+          <attvalue for="6" value="6.435879062624442e-09" />
           <attvalue for="7" value="5221400" />
           <attvalue for="9" value="9.0" />
           <attvalue for="8" value="91953381.48" />
@@ -473,7 +473,7 @@
           <attvalue for="3" value="0.00022282098861366024" />
           <attvalue for="4" value="0.023879806868532704" />
           <attvalue for="5" value="0.0012831108497236218" />
-          <attvalue for="6" value="0.11718589829821734" />
+          <attvalue for="6" value="0.11718589829821735" />
           <attvalue for="7" value="6613400" />
           <attvalue for="9" value="6.0" />
           <attvalue for="8" value="5700000000.0" />
@@ -565,7 +565,7 @@
           <attvalue for="3" value="0.0013182014788572843" />
           <attvalue for="4" value="0.029138504786985004" />
           <attvalue for="5" value="0.0008772133650022117" />
-          <attvalue for="6" value="4.9008951196767514e-08" />
+          <attvalue for="6" value="4.900895120952427e-08" />
           <attvalue for="7" value="6461100" />
           <attvalue for="9" value="8.0" />
           <attvalue for="8" value="3507808862.5" />
@@ -605,7 +605,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.021797153175551552" />
           <attvalue for="5" value="0.0019469656812916782" />
-          <attvalue for="6" value="0.009435507056018597" />
+          <attvalue for="6" value="0.009435507056019064" />
           <attvalue for="7" value="3514000" />
           <attvalue for="9" value="3.0" />
           <attvalue for="8" value="5664951979.22" />
@@ -645,7 +645,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.02999085993030943" />
           <attvalue for="5" value="0.0019724765573897875" />
-          <attvalue for="6" value="3.268705133331997e-08" />
+          <attvalue for="6" value="3.268705134543309e-08" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="4.0" />
           <attvalue for="8" value="123144439.42" />
@@ -737,7 +737,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.014880994121738593" />
           <attvalue for="5" value="0.0020504618774538266" />
-          <attvalue for="6" value="4.058694215991419e-14" />
+          <attvalue for="6" value="4.0572300794767126e-14" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="2.0" />
           <attvalue for="8" value="1135904.66" />
@@ -764,7 +764,7 @@
           <attvalue for="3" value="9.362226412338665e-07" />
           <attvalue for="4" value="0.02146033232600279" />
           <attvalue for="5" value="0.0024585528873887286" />
-          <attvalue for="6" value="9.204252247181032e-12" />
+          <attvalue for="6" value="9.20427794663454e-12" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="8.0" />
           <attvalue for="8" value="12779595.84" />
@@ -778,9 +778,9 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.020468195857326996" />
           <attvalue for="5" value="0.002002798109479523" />
-          <attvalue for="6" value="8.009166231038937e-05" />
+          <attvalue for="6" value="8.009166231035984e-05" />
           <attvalue for="7" value="3511501" />
-          <attvalue for="9" value="13.0" />
+          <attvalue for="9" value="7.0" />
           <attvalue for="8" value="77421581.0" />
         </attvalues>
       </node>
@@ -896,7 +896,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.014880994121738593" />
           <attvalue for="5" value="0.0020504618774538266" />
-          <attvalue for="6" value="4.05712023988377e-14" />
+          <attvalue for="6" value="4.05622768131828e-14" />
           <attvalue for="7" value="6463800" />
           <attvalue for="9" value="2.0" />
           <attvalue for="8" value="134462157.65" />
@@ -910,7 +910,7 @@
           <attvalue for="3" value="1.1234671694806398e-05" />
           <attvalue for="4" value="0.019024627960452633" />
           <attvalue for="5" value="0.0024676658801304403" />
-          <attvalue for="6" value="4.4142887090656085e-12" />
+          <attvalue for="6" value="4.414317919158689e-12" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="2.0" />
           <attvalue for="8" value="1830000.0" />
@@ -963,7 +963,7 @@
           <attvalue for="3" value="0.0012807525732079295" />
           <attvalue for="4" value="0.02570532928824143" />
           <attvalue for="5" value="0.0008553580688588971" />
-          <attvalue for="6" value="7.337361875566434e-09" />
+          <attvalue for="6" value="7.3373618769545084e-09" />
           <attvalue for="7" value="6461100" />
           <attvalue for="9" value="10.0" />
           <attvalue for="8" value="8500000000.0" />
@@ -1133,7 +1133,7 @@
           <attvalue for="3" value="0.00011047427166559625" />
           <attvalue for="4" value="0.0267800627584365" />
           <attvalue for="5" value="0.0025312732071958947" />
-          <attvalue for="6" value="8.248015284230571e-08" />
+          <attvalue for="6" value="8.248015288281407e-08" />
           <attvalue for="7" value="3514000" />
           <attvalue for="9" value="14.0" />
           <attvalue for="8" value="596669107.23" />
@@ -1264,7 +1264,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.024633057858180905" />
           <attvalue for="5" value="0.0010704418563137748" />
-          <attvalue for="6" value="6.626647050077318e-09" />
+          <attvalue for="6" value="6.626647071801255e-09" />
           <attvalue for="7" value="3600601" />
           <attvalue for="9" value="11.0" />
           <attvalue for="8" value="376353295.59" />
@@ -1304,7 +1304,7 @@
           <attvalue for="3" value="5.991824903896746e-05" />
           <attvalue for="4" value="0.03166734377119628" />
           <attvalue for="5" value="0.002864296953602559" />
-          <attvalue for="6" value="2.209277338192004e-07" />
+          <attvalue for="6" value="2.2092773390182623e-07" />
           <attvalue for="7" value="5221400" />
           <attvalue for="9" value="1.0" />
           <attvalue for="8" value="139762922.42" />
@@ -1344,7 +1344,7 @@
           <attvalue for="3" value="0.00011796405279546719" />
           <attvalue for="4" value="0.030311804119130665" />
           <attvalue for="5" value="0.0028230401392206387" />
-          <attvalue for="6" value="1.8078257338412375e-07" />
+          <attvalue for="6" value="1.8078257346303675e-07" />
           <attvalue for="7" value="5221400" />
           <attvalue for="9" value="1.0" />
           <attvalue for="8" value="175000000.0" />
@@ -1540,7 +1540,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.02044182393208986" />
           <attvalue for="5" value="0.0005496741968969831" />
-          <attvalue for="6" value="1.8642714827662838e-10" />
+          <attvalue for="6" value="1.864271503081268e-10" />
           <attvalue for="7" value="5223100" />
           <attvalue for="9" value="9.0" />
           <attvalue for="8" value="0.0" />
@@ -1606,7 +1606,7 @@
           <attvalue for="3" value="0.0018818075088800716" />
           <attvalue for="4" value="0.01951789130435418" />
           <attvalue for="5" value="0.002752719717687169" />
-          <attvalue for="6" value="2.0585682563497656e-11" />
+          <attvalue for="6" value="2.0585676866892573e-11" />
           <attvalue for="7" value="5231102" />
           <attvalue for="9" value="2.0" />
           <attvalue for="8" value="1879484344.39" />
@@ -1620,7 +1620,7 @@
           <attvalue for="3" value="0.0010766560374189465" />
           <attvalue for="4" value="0.016934835158132138" />
           <attvalue for="5" value="0.0018564895708814274" />
-          <attvalue for="6" value="8.80890515870317e-13" />
+          <attvalue for="6" value="8.808982347220693e-13" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="2.0" />
           <attvalue for="8" value="726202.62" />
@@ -1699,7 +1699,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.014880994121738593" />
           <attvalue for="5" value="0.0020504618774538266" />
-          <attvalue for="6" value="4.059177757566524e-14" />
+          <attvalue for="6" value="4.057811663262625e-14" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="2.0" />
           <attvalue for="8" value="1320950.34" />
@@ -1726,7 +1726,7 @@
           <attvalue for="3" value="0.004888018409882016" />
           <attvalue for="4" value="0.03439138982692064" />
           <attvalue for="5" value="0.004629046015812531" />
-          <attvalue for="6" value="1.4002174107084797e-06" />
+          <attvalue for="6" value="1.400217410782432e-06" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="1.0" />
           <attvalue for="8" value="0.0" />
@@ -1818,7 +1818,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.014880994121738593" />
           <attvalue for="5" value="0.0020504618774538266" />
-          <attvalue for="6" value="4.0589888921732163e-14" />
+          <attvalue for="6" value="4.0578970037145824e-14" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="2.0" />
           <attvalue for="8" value="5758213.93" />
@@ -1962,7 +1962,7 @@
           <attvalue for="3" value="0.002005388897522942" />
           <attvalue for="4" value="0.0227920365358916" />
           <attvalue for="5" value="0.003852256901239752" />
-          <attvalue for="6" value="0.021935903925412115" />
+          <attvalue for="6" value="0.021935903925412916" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="3.0" />
           <attvalue for="8" value="9933599044.8" />
@@ -2002,9 +2002,9 @@
           <attvalue for="3" value="0.000715274097902674" />
           <attvalue for="4" value="0.02120365814337596" />
           <attvalue for="5" value="0.002436346512945991" />
-          <attvalue for="6" value="0.00034996933616845575" />
+          <attvalue for="6" value="0.00034996933616839086" />
           <attvalue for="7" value="6462000" />
-          <attvalue for="9" value="13.0" />
+          <attvalue for="9" value="7.0" />
           <attvalue for="8" value="1701023734.0" />
         </attvalues>
       </node>
@@ -2042,7 +2042,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.014857180927031284" />
           <attvalue for="5" value="0.001380340155552706" />
-          <attvalue for="6" value="3.6473392323347644e-14" />
+          <attvalue for="6" value="3.645832952086646e-14" />
           <attvalue for="7" value="6810201" />
           <attvalue for="9" value="2.0" />
           <attvalue for="8" value="18496835.21" />
@@ -2095,7 +2095,7 @@
           <attvalue for="3" value="0.000469983765899401" />
           <attvalue for="4" value="0.025231841534037073" />
           <attvalue for="5" value="0.0028382994641971246" />
-          <attvalue for="6" value="6.270597754728222e-09" />
+          <attvalue for="6" value="6.27059771811594e-09" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="9.0" />
           <attvalue for="8" value="3867919940.3" />
@@ -2135,7 +2135,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.014620616045718637" />
           <attvalue for="5" value="0.0012162931143628848" />
-          <attvalue for="6" value="6.928426783767359e-14" />
+          <attvalue for="6" value="6.926902050866274e-14" />
           <attvalue for="7" value="6202300" />
           <attvalue for="9" value="5.0" />
           <attvalue for="8" value="819218753.89" />
@@ -2175,7 +2175,7 @@
           <attvalue for="3" value="0.004550042036396591" />
           <attvalue for="4" value="0.02634144964879683" />
           <attvalue for="5" value="0.002580377526253433" />
-          <attvalue for="6" value="0.2653253631709724" />
+          <attvalue for="6" value="0.2653253631709726" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="6.0" />
           <attvalue for="8" value="4600124804.3" />
@@ -2228,7 +2228,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.02488616370165824" />
           <attvalue for="5" value="0.001142965482788181" />
-          <attvalue for="6" value="1.7300103489467186e-08" />
+          <attvalue for="6" value="1.730010345626818e-08" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="14.0" />
           <attvalue for="8" value="6002715947.12" />
@@ -2346,7 +2346,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.02922002110805729" />
           <attvalue for="5" value="0.0024672321676522026" />
-          <attvalue for="6" value="2.2427429041462257e-08" />
+          <attvalue for="6" value="2.2427429106934353e-08" />
           <attvalue for="7" value="3600601" />
           <attvalue for="9" value="11.0" />
           <attvalue for="8" value="343639459.74" />
@@ -2438,7 +2438,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.025107109397974777" />
           <attvalue for="5" value="0.003500271081270643" />
-          <attvalue for="6" value="0.4678560579535903" />
+          <attvalue for="6" value="0.46785605795359025" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="6.0" />
           <attvalue for="8" value="11335195072.43" />
@@ -2647,7 +2647,7 @@
           <attvalue for="3" value="0.00046249398476953005" />
           <attvalue for="4" value="0.021973122401165848" />
           <attvalue for="5" value="0.002015810314604898" />
-          <attvalue for="6" value="0.009057168668008325" />
+          <attvalue for="6" value="0.009057168668008916" />
           <attvalue for="7" value="3514000" />
           <attvalue for="9" value="3.0" />
           <attvalue for="8" value="1624458979.18" />
@@ -3194,7 +3194,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.022015052725379968" />
           <attvalue for="5" value="0.002482941408852463" />
-          <attvalue for="6" value="0.011929266292128024" />
+          <attvalue for="6" value="0.011929266292128695" />
           <attvalue for="7" value="3514000" />
           <attvalue for="9" value="3.0" />
           <attvalue for="8" value="2200000000.0" />
@@ -3624,7 +3624,7 @@
           <attvalue for="3" value="0.0007536592261932625" />
           <attvalue for="4" value="0.021391657480919587" />
           <attvalue for="5" value="0.002689676287383876" />
-          <attvalue for="6" value="3.25562856614856e-10" />
+          <attvalue for="6" value="3.2556289768544355e-10" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="10.0" />
           <attvalue for="8" value="1171455775.27" />
@@ -3794,7 +3794,7 @@
           <attvalue for="3" value="0.001951087984331378" />
           <attvalue for="4" value="0.028613330629502658" />
           <attvalue for="5" value="0.0015513432422943315" />
-          <attvalue for="6" value="6.299269061218919e-08" />
+          <attvalue for="6" value="6.299269057444892e-08" />
           <attvalue for="7" value="3041500" />
           <attvalue for="9" value="7.0" />
           <attvalue for="8" value="5159617052.42" />
@@ -3964,7 +3964,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.020202613913126687" />
           <attvalue for="5" value="0.0024650648729613437" />
-          <attvalue for="6" value="8.59373189776617e-11" />
+          <attvalue for="6" value="8.593733092806024e-11" />
           <attvalue for="7" value="7711000" />
           <attvalue for="9" value="10.0" />
           <attvalue for="8" value="7468003145.24" />
@@ -4056,7 +4056,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.023018064005346763" />
           <attvalue for="5" value="0.000498098747162695" />
-          <attvalue for="6" value="5.873658927042109e-10" />
+          <attvalue for="6" value="5.873658939617334e-10" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="11.0" />
           <attvalue for="8" value="2984373085.55" />
@@ -4148,9 +4148,9 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.019750068596628586" />
           <attvalue for="5" value="0.0005946755989412102" />
-          <attvalue for="6" value="1.5515017701461188e-10" />
+          <attvalue for="6" value="1.5515008447925774e-10" />
           <attvalue for="7" value="6462000" />
-          <attvalue for="9" value="7.0" />
+          <attvalue for="9" value="13.0" />
           <attvalue for="8" value="1865949654.57" />
         </attvalues>
       </node>
@@ -4318,7 +4318,7 @@
           <attvalue for="3" value="8.238759242858026e-05" />
           <attvalue for="4" value="0.02241005126872562" />
           <attvalue for="5" value="0.003318453762669647" />
-          <attvalue for="6" value="0.015698712638707705" />
+          <attvalue for="6" value="0.015698712638708815" />
           <attvalue for="7" value="3514000" />
           <attvalue for="9" value="3.0" />
           <attvalue for="8" value="3385861097.24" />
@@ -4462,7 +4462,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.01722919622050942" />
           <attvalue for="5" value="0.0004558935732346053" />
-          <attvalue for="6" value="2.6729290252018444e-12" />
+          <attvalue for="6" value="2.672929844984065e-12" />
           <attvalue for="7" value="4110700" />
           <attvalue for="9" value="10.0" />
           <attvalue for="8" value="389625569.0" />
@@ -4541,7 +4541,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.022031830969674353" />
           <attvalue for="5" value="0.0005017857903944637" />
-          <attvalue for="6" value="0.010042112069354259" />
+          <attvalue for="6" value="0.01004211206935432" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="6.0" />
           <attvalue for="8" value="1139887263.22" />
@@ -4581,7 +4581,7 @@
           <attvalue for="3" value="0.0029725068859175266" />
           <attvalue for="4" value="0.031118945275621136" />
           <attvalue for="5" value="0.0036067761669353717" />
-          <attvalue for="6" value="1.2790277998517756e-07" />
+          <attvalue for="6" value="1.279027800810944e-07" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="11.0" />
           <attvalue for="8" value="1266449826.54" />
@@ -4816,7 +4816,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.023609913635274347" />
           <attvalue for="5" value="0.0011715862613804863" />
-          <attvalue for="6" value="1.2341972144116583e-05" />
+          <attvalue for="6" value="1.2341972144108009e-05" />
           <attvalue for="7" value="5030101" />
           <attvalue for="9" value="0.0" />
           <attvalue for="8" value="842999412.29" />
@@ -4869,7 +4869,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.02447074429182353" />
           <attvalue for="5" value="0.0011381024556761437" />
-          <attvalue for="6" value="8.680737490278467e-07" />
+          <attvalue for="6" value="8.680737490137361e-07" />
           <attvalue for="7" value="6463800" />
           <attvalue for="9" value="0.0" />
           <attvalue for="8" value="3968679278.04" />
@@ -5234,7 +5234,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.01983290905376321" />
           <attvalue for="5" value="0.0004394239635155771" />
-          <attvalue for="6" value="0.004096597970041689" />
+          <attvalue for="6" value="0.004096597970041678" />
           <attvalue for="7" value="4723700" />
           <attvalue for="9" value="6.0" />
           <attvalue for="8" value="236862275.68" />
@@ -5417,7 +5417,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.02179052153487334" />
           <attvalue for="5" value="0.000744480524598218" />
-          <attvalue for="6" value="1.1907935269600913e-05" />
+          <attvalue for="6" value="1.1907935269599797e-05" />
           <attvalue for="7" value="5221400" />
           <attvalue for="9" value="0.0" />
           <attvalue for="8" value="2451400000.0" />
@@ -5743,7 +5743,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.019131345194678597" />
           <attvalue for="5" value="0.0012058301514088579" />
-          <attvalue for="6" value="3.283005724728095e-12" />
+          <attvalue for="6" value="3.2830136466594156e-12" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="8.0" />
           <attvalue for="8" value="985326622.26" />
@@ -5861,7 +5861,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.02840260108637007" />
           <attvalue for="5" value="0.0017490722941971822" />
-          <attvalue for="6" value="7.916249678922199e-08" />
+          <attvalue for="6" value="7.916249677044964e-08" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="5.0" />
           <attvalue for="8" value="558197657.0" />
@@ -6018,7 +6018,7 @@
           <attvalue for="3" value="0.0034921104518023226" />
           <attvalue for="4" value="0.029851574302250113" />
           <attvalue for="5" value="0.002762108535801368" />
-          <attvalue for="6" value="4.5289913054366196e-07" />
+          <attvalue for="6" value="4.528991305041323e-07" />
           <attvalue for="7" value="0600001" />
           <attvalue for="9" value="5.0" />
           <attvalue for="8" value="11971561384.53" />
@@ -6123,7 +6123,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.02088636151421208" />
           <attvalue for="5" value="0.0008674619784314956" />
-          <attvalue for="6" value="2.5665095968377715e-10" />
+          <attvalue for="6" value="2.566509627704043e-10" />
           <attvalue for="7" value="4644301" />
           <attvalue for="9" value="4.0" />
           <attvalue for="8" value="2549392366.31" />
@@ -6202,7 +6202,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.01907674845983825" />
           <attvalue for="5" value="0.00038011998738301367" />
-          <attvalue for="6" value="0.0007668378260256866" />
+          <attvalue for="6" value="0.0007668378260257344" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="3.0" />
           <attvalue for="8" value="1868510493.75" />
@@ -6216,7 +6216,7 @@
           <attvalue for="3" value="0.0019248737503768296" />
           <attvalue for="4" value="0.026776162045114748" />
           <attvalue for="5" value="0.004333299920811437" />
-          <attvalue for="6" value="0.0003406343755600415" />
+          <attvalue for="6" value="0.00034063437556004826" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="0.0" />
           <attvalue for="8" value="1359468724.73" />
@@ -6802,7 +6802,7 @@
           <attvalue for="3" value="0.00022282098861366024" />
           <attvalue for="4" value="0.017944194623512384" />
           <attvalue for="5" value="0.001689107202225777" />
-          <attvalue for="6" value="0.0013064245242986727" />
+          <attvalue for="6" value="0.0013064245242986633" />
           <attvalue for="7" value="5231102" />
           <attvalue for="9" value="15.0" />
           <attvalue for="8" value="716604454.0" />
@@ -6907,7 +6907,7 @@
           <attvalue for="3" value="0.0013350534863994937" />
           <attvalue for="4" value="0.030656553587980244" />
           <attvalue for="5" value="0.0023098927544967164" />
-          <attvalue for="6" value="1.3322155753210126e-07" />
+          <attvalue for="6" value="1.3322155755562345e-07" />
           <attvalue for="7" value="5221400" />
           <attvalue for="9" value="1.0" />
           <attvalue for="8" value="67770000.0" />
@@ -6934,7 +6934,7 @@
           <attvalue for="3" value="0.00011234671694806398" />
           <attvalue for="4" value="0.023302865137994767" />
           <attvalue for="5" value="0.0012946819800105738" />
-          <attvalue for="6" value="9.928451329991133e-10" />
+          <attvalue for="6" value="9.928450630642348e-10" />
           <attvalue for="7" value="5240101" />
           <attvalue for="9" value="9.0" />
           <attvalue for="8" value="2624558093.54" />
@@ -6974,7 +6974,7 @@
           <attvalue for="3" value="0.00022282098861366024" />
           <attvalue for="4" value="0.019129155325847972" />
           <attvalue for="5" value="0.0012050860014907014" />
-          <attvalue for="6" value="0.0007706047569883885" />
+          <attvalue for="6" value="0.0007706047569884521" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="3.0" />
           <attvalue for="8" value="117946448.47" />
@@ -7209,7 +7209,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.02179052153487334" />
           <attvalue for="5" value="0.000744480524598218" />
-          <attvalue for="6" value="1.1907935269600913e-05" />
+          <attvalue for="6" value="1.1907935269599797e-05" />
           <attvalue for="7" value="6461100" />
           <attvalue for="9" value="0.0" />
           <attvalue for="8" value="436556000.0" />
@@ -7483,7 +7483,7 @@
           <attvalue for="3" value="0.00010298449053572532" />
           <attvalue for="4" value="0.030271173862207238" />
           <attvalue for="5" value="0.0029758427793762057" />
-          <attvalue for="6" value="1.8494931122873313e-07" />
+          <attvalue for="6" value="1.849493112822435e-07" />
           <attvalue for="7" value="5221400" />
           <attvalue for="9" value="1.0" />
           <attvalue for="8" value="1088000000.0" />
@@ -7497,7 +7497,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.025024041369113056" />
           <attvalue for="5" value="0.002434413734690669" />
-          <attvalue for="6" value="6.43587908626124e-09" />
+          <attvalue for="6" value="6.435879049321709e-09" />
           <attvalue for="7" value="5221400" />
           <attvalue for="9" value="9.0" />
           <attvalue for="8" value="1159899459.97" />
@@ -7680,7 +7680,7 @@
           <attvalue for="3" value="0.00022282098861366024" />
           <attvalue for="4" value="0.020203590864440703" />
           <attvalue for="5" value="0.0026321449930901144" />
-          <attvalue for="6" value="7.64609125881776e-11" />
+          <attvalue for="6" value="7.646093960489912e-11" />
           <attvalue for="7" value="7711000" />
           <attvalue for="9" value="10.0" />
           <attvalue for="8" value="2630122188.48" />
@@ -7889,7 +7889,7 @@
           <attvalue for="3" value="0.00010766560374189465" />
           <attvalue for="4" value="0.021375240870033237" />
           <attvalue for="5" value="0.0023405419956323485" />
-          <attvalue for="6" value="3.2113384175190324e-10" />
+          <attvalue for="6" value="3.2113387334709265e-10" />
           <attvalue for="7" value="7711000" />
           <attvalue for="9" value="10.0" />
           <attvalue for="8" value="2142576124.79" />
@@ -8228,7 +8228,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.014620616045718637" />
           <attvalue for="5" value="0.0012162931143628848" />
-          <attvalue for="6" value="6.928581343672154e-14" />
+          <attvalue for="6" value="6.928042986141973e-14" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="5.0" />
           <attvalue for="8" value="1483830682.19" />
@@ -8281,7 +8281,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.02177727035195387" />
           <attvalue for="5" value="0.002040397474774969" />
-          <attvalue for="6" value="0.009460086876952172" />
+          <attvalue for="6" value="0.00946008687695284" />
           <attvalue for="7" value="3512300" />
           <attvalue for="9" value="3.0" />
           <attvalue for="8" value="146857116.49" />
@@ -8308,7 +8308,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.02922002110805729" />
           <attvalue for="5" value="0.0024672321676522026" />
-          <attvalue for="6" value="2.2427429056403256e-08" />
+          <attvalue for="6" value="2.242742908372752e-08" />
           <attvalue for="7" value="3600601" />
           <attvalue for="9" value="11.0" />
           <attvalue for="8" value="86579150.0" />
@@ -8387,7 +8387,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.02177727035195387" />
           <attvalue for="5" value="0.002040397474774969" />
-          <attvalue for="6" value="0.009460086876952187" />
+          <attvalue for="6" value="0.009460086876952737" />
           <attvalue for="7" value="3512300" />
           <attvalue for="9" value="3.0" />
           <attvalue for="8" value="171170600.64" />
@@ -8401,7 +8401,7 @@
           <attvalue for="3" value="0.00011047427166559625" />
           <attvalue for="4" value="0.0267800627584365" />
           <attvalue for="5" value="0.0025312732071958947" />
-          <attvalue for="6" value="8.248015304419435e-08" />
+          <attvalue for="6" value="8.248015287983327e-08" />
           <attvalue for="7" value="3514000" />
           <attvalue for="9" value="14.0" />
           <attvalue for="8" value="893995761.46" />
@@ -8441,7 +8441,7 @@
           <attvalue for="3" value="0.00044376953194485275" />
           <attvalue for="4" value="0.026784745114865918" />
           <attvalue for="5" value="0.0022810006967516087" />
-          <attvalue for="6" value="4.955455075721962e-08" />
+          <attvalue for="6" value="4.9554550793754434e-08" />
           <attvalue for="7" value="6463800" />
           <attvalue for="9" value="1.0" />
           <attvalue for="8" value="5940136584.99" />
@@ -8728,7 +8728,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.021796205551190245" />
           <attvalue for="5" value="0.0006701937599164257" />
-          <attvalue for="6" value="1.732333625745596e-09" />
+          <attvalue for="6" value="1.7323336298623867e-09" />
           <attvalue for="7" value="6463800" />
           <attvalue for="9" value="1.0" />
           <attvalue for="8" value="1124973604.0" />
@@ -8846,7 +8846,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.03025254240349433" />
           <attvalue for="5" value="0.0026516079613480453" />
-          <attvalue for="6" value="1.7839349090907293e-07" />
+          <attvalue for="6" value="1.7839349101773452e-07" />
           <attvalue for="7" value="5221400" />
           <attvalue for="9" value="1.0" />
           <attvalue for="8" value="1188456196.0" />
@@ -8899,7 +8899,7 @@
           <attvalue for="3" value="0.0006628456299935775" />
           <attvalue for="4" value="0.0254237683578837" />
           <attvalue for="5" value="0.002756529999779022" />
-          <attvalue for="6" value="7.341670666297428e-09" />
+          <attvalue for="6" value="7.341670690225255e-09" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="4.0" />
           <attvalue for="8" value="12697285074.75" />
@@ -9173,7 +9173,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.024027439909681154" />
           <attvalue for="5" value="0.0012050700670848285" />
-          <attvalue for="6" value="2.3815870539201826e-05" />
+          <attvalue for="6" value="2.3815870539199593e-05" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="0.0" />
           <attvalue for="8" value="6621751608.08" />
@@ -9291,9 +9291,9 @@
           <attvalue for="3" value="0.0007517867809107949" />
           <attvalue for="4" value="0.023756694619147055" />
           <attvalue for="5" value="0.0037219750323329854" />
-          <attvalue for="6" value="2.9880390937505682e-09" />
+          <attvalue for="6" value="2.988038414195242e-09" />
           <attvalue for="7" value="2423702" />
-          <attvalue for="9" value="7.0" />
+          <attvalue for="9" value="13.0" />
           <attvalue for="8" value="24347290800.0" />
         </attvalues>
       </node>
@@ -9370,7 +9370,7 @@
           <attvalue for="3" value="0.00022282098861366024" />
           <attvalue for="4" value="0.01526289619510907" />
           <attvalue for="5" value="0.0018811194237897868" />
-          <attvalue for="6" value="8.253393738562462e-06" />
+          <attvalue for="6" value="8.253393738571002e-06" />
           <attvalue for="7" value="8211300" />
           <attvalue for="9" value="12.0" />
           <attvalue for="8" value="927876465.69" />
@@ -9631,7 +9631,7 @@
           <attvalue for="3" value="0.0013069668071624778" />
           <attvalue for="4" value="0.02282004691426052" />
           <attvalue for="5" value="0.0031565584019618382" />
-          <attvalue for="6" value="8.120787316002533e-11" />
+          <attvalue for="6" value="8.120788180660497e-11" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="8.0" />
           <attvalue for="8" value="2221471251.41" />
@@ -9788,7 +9788,7 @@
           <attvalue for="3" value="0.000441897086662385" />
           <attvalue for="4" value="0.021129552034180165" />
           <attvalue for="5" value="0.0008533369222142847" />
-          <attvalue for="6" value="0.0369601075877054" />
+          <attvalue for="6" value="0.03696010758770541" />
           <attvalue for="7" value="3822000" />
           <attvalue for="9" value="6.0" />
           <attvalue for="8" value="281382075.0" />
@@ -9802,7 +9802,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.024997839349783734" />
           <attvalue for="5" value="0.0011002729408462072" />
-          <attvalue for="6" value="0.00033738481150990786" />
+          <attvalue for="6" value="0.00033738481150991616" />
           <attvalue for="7" value="6463800" />
           <attvalue for="9" value="0.0" />
           <attvalue for="8" value="673588731.91" />
@@ -9933,7 +9933,7 @@
           <attvalue for="3" value="0.003366656617876984" />
           <attvalue for="4" value="0.02273622156136449" />
           <attvalue for="5" value="0.001711115851899633" />
-          <attvalue for="6" value="5.596220540365593e-10" />
+          <attvalue for="6" value="5.596220479360642e-10" />
           <attvalue for="7" value="2021500" />
           <attvalue for="9" value="5.0" />
           <attvalue for="8" value="8043222080.5" />
@@ -10012,7 +10012,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.02099851037049769" />
           <attvalue for="5" value="0.0012258558106463388" />
-          <attvalue for="6" value="1.5471924356929754e-10" />
+          <attvalue for="6" value="1.5471924108861204e-10" />
           <attvalue for="7" value="0210103" />
           <attvalue for="9" value="7.0" />
           <attvalue for="8" value="90100100.0" />
@@ -10026,7 +10026,7 @@
           <attvalue for="3" value="0.0016720936372436857" />
           <attvalue for="4" value="0.027327859900754668" />
           <attvalue for="5" value="0.002504397300153887" />
-          <attvalue for="6" value="1.2415912277718666e-05" />
+          <attvalue for="6" value="1.2415912277680543e-05" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="0.0" />
           <attvalue for="8" value="4439359778.62" />
@@ -10118,7 +10118,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.01707165845634741" />
           <attvalue for="5" value="0.001359288159680375" />
-          <attvalue for="6" value="0.00013701041162739224" />
+          <attvalue for="6" value="0.000137010411627407" />
           <attvalue for="7" value="5231102" />
           <attvalue for="9" value="15.0" />
           <attvalue for="8" value="490228107.96" />
@@ -10145,7 +10145,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.01914449494396181" />
           <attvalue for="5" value="0.0015291208274074903" />
-          <attvalue for="6" value="3.5006638216280285e-12" />
+          <attvalue for="6" value="3.5006681888131388e-12" />
           <attvalue for="7" value="3511501" />
           <attvalue for="9" value="8.0" />
           <attvalue for="8" value="145650900.0" />
@@ -10250,7 +10250,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.026856197532698352" />
           <attvalue for="5" value="0.0011821931201383131" />
-          <attvalue for="6" value="3.953011050734067e-08" />
+          <attvalue for="6" value="3.953011053750169e-08" />
           <attvalue for="7" value="5221400" />
           <attvalue for="9" value="1.0" />
           <attvalue for="8" value="2034122500.0" />
@@ -10316,7 +10316,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.020756653464156453" />
           <attvalue for="5" value="0.0005032934635645903" />
-          <attvalue for="6" value="2.1920826932047703e-10" />
+          <attvalue for="6" value="2.1920826428165284e-10" />
           <attvalue for="7" value="2099199" />
           <attvalue for="9" value="9.0" />
           <attvalue for="8" value="480907803.72" />
@@ -10499,7 +10499,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.02524858005782108" />
           <attvalue for="5" value="0.004231374609609804" />
-          <attvalue for="6" value="0.5579549780820885" />
+          <attvalue for="6" value="0.5579549780820886" />
           <attvalue for="7" value="6440900" />
           <attvalue for="9" value="6.0" />
           <attvalue for="8" value="2312267291.29" />
@@ -10539,7 +10539,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.025148308700655393" />
           <attvalue for="5" value="0.0005264194562790194" />
-          <attvalue for="6" value="7.314754582834505e-09" />
+          <attvalue for="6" value="7.314754588306375e-09" />
           <attvalue for="7" value="4713004" />
           <attvalue for="9" value="4.0" />
           <attvalue for="8" value="13802162483.7" />
@@ -10865,7 +10865,7 @@
           <attvalue for="3" value="0.002816157704831471" />
           <attvalue for="4" value="0.025812529167479056" />
           <attvalue for="5" value="0.0008677304847139215" />
-          <attvalue for="6" value="1.5852062680739593e-08" />
+          <attvalue for="6" value="1.5852062689847334e-08" />
           <attvalue for="7" value="4616800" />
           <attvalue for="9" value="5.0" />
           <attvalue for="8" value="1329338382.5" />
@@ -10957,7 +10957,7 @@
           <attvalue for="3" value="0.0008688146110650281" />
           <attvalue for="4" value="0.020406877645016717" />
           <attvalue for="5" value="0.001092570055833735" />
-          <attvalue for="6" value="0.00672886927228325" />
+          <attvalue for="6" value="0.006728869272283285" />
           <attvalue for="7" value="1071600" />
           <attvalue for="9" value="12.0" />
           <attvalue for="8" value="4445192198.41" />
@@ -11088,7 +11088,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.020180170080858217" />
           <attvalue for="5" value="0.0017711497918235833" />
-          <attvalue for="6" value="6.794991772763415e-11" />
+          <attvalue for="6" value="6.794991887320353e-11" />
           <attvalue for="7" value="4930202" />
           <attvalue for="9" value="10.0" />
           <attvalue for="8" value="842781426.13" />
@@ -11362,7 +11362,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.025039038628103343" />
           <attvalue for="5" value="0.0005971296463811477" />
-          <attvalue for="6" value="1.211452010448887e-06" />
+          <attvalue for="6" value="1.2114520104465746e-06" />
           <attvalue for="7" value="2840200" />
           <attvalue for="9" value="0.0" />
           <attvalue for="8" value="1001432789.79" />
@@ -11415,7 +11415,7 @@
           <attvalue for="3" value="0.0010766560374189465" />
           <attvalue for="4" value="0.024370824336735996" />
           <attvalue for="5" value="0.0019332037139363992" />
-          <attvalue for="6" value="0.19224795710172293" />
+          <attvalue for="6" value="0.19224795710172285" />
           <attvalue for="7" value="6550200" />
           <attvalue for="9" value="6.0" />
           <attvalue for="8" value="851016554.14" />
@@ -11533,9 +11533,9 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.020588223754322482" />
           <attvalue for="5" value="0.0021688980445538344" />
-          <attvalue for="6" value="9.020472798935213e-05" />
+          <attvalue for="6" value="9.020472798932455e-05" />
           <attvalue for="7" value="3514000" />
-          <attvalue for="9" value="13.0" />
+          <attvalue for="9" value="7.0" />
           <attvalue for="8" value="0.0" />
         </attvalues>
       </node>
@@ -11638,7 +11638,7 @@
           <attvalue for="3" value="0.0027075558784483422" />
           <attvalue for="4" value="0.02559117605556235" />
           <attvalue for="5" value="0.005076012526674077" />
-          <attvalue for="6" value="0.5881058754469063" />
+          <attvalue for="6" value="0.5881058754469061" />
           <attvalue for="7" value="6422100" />
           <attvalue for="9" value="6.0" />
           <attvalue for="8" value="87100000000.0" />
@@ -11691,7 +11691,7 @@
           <attvalue for="3" value="0.002896672851977583" />
           <attvalue for="4" value="0.03203152478484598" />
           <attvalue for="5" value="0.0045527115858171536" />
-          <attvalue for="6" value="2.0924339981071594e-07" />
+          <attvalue for="6" value="2.0924339988587172e-07" />
           <attvalue for="7" value="6431000" />
           <attvalue for="9" value="4.0" />
           <attvalue for="8" value="90729000000.0" />
@@ -11744,7 +11744,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.02488616370165824" />
           <attvalue for="5" value="0.0014427993155260617" />
-          <attvalue for="6" value="5.197000878827705e-09" />
+          <attvalue for="6" value="5.197000891254405e-09" />
           <attvalue for="7" value="3511501" />
           <attvalue for="9" value="1.0" />
           <attvalue for="8" value="6471507786.86" />
@@ -11875,7 +11875,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.01350197737702859" />
           <attvalue for="5" value="0.0010883709853725773" />
-          <attvalue for="6" value="2.8852307765106116e-07" />
+          <attvalue for="6" value="2.8852307765729575e-07" />
           <attvalue for="7" value="2330303" />
           <attvalue for="9" value="12.0" />
           <attvalue for="8" value="438081465.61" />
@@ -11941,7 +11941,7 @@
           <attvalue for="3" value="0.0006609731847111098" />
           <attvalue for="4" value="0.01750788716196964" />
           <attvalue for="5" value="0.002371701160983088" />
-          <attvalue for="6" value="0.00023580527141635593" />
+          <attvalue for="6" value="0.00023580527141637303" />
           <attvalue for="7" value="6422100" />
           <attvalue for="9" value="12.0" />
           <attvalue for="8" value="3742570620.89" />
@@ -12033,7 +12033,7 @@
           <attvalue for="3" value="0.0011852578638020753" />
           <attvalue for="4" value="0.025277639216970255" />
           <attvalue for="5" value="0.0009548028439245" />
-          <attvalue for="6" value="1.7160993678102484e-09" />
+          <attvalue for="6" value="1.7160993743490935e-09" />
           <attvalue for="7" value="2441501" />
           <attvalue for="9" value="8.0" />
           <attvalue for="8" value="4955502556.18" />
@@ -12060,7 +12060,7 @@
           <attvalue for="3" value="0.004762564575956679" />
           <attvalue for="4" value="0.034433906970500305" />
           <attvalue for="5" value="0.003131459917807152" />
-          <attvalue for="6" value="1.3663316440370939e-06" />
+          <attvalue for="6" value="1.3663316440564666e-06" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="4.0" />
           <attvalue for="8" value="73189000000.0" />
@@ -12178,7 +12178,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.0265802585604354" />
           <attvalue for="5" value="0.000471300931101806" />
-          <attvalue for="6" value="4.894895960334052e-08" />
+          <attvalue for="6" value="4.894895961019941e-08" />
           <attvalue for="7" value="8211300" />
           <attvalue for="9" value="1.0" />
           <attvalue for="8" value="722419704.22" />
@@ -12257,7 +12257,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.02999085993030943" />
           <attvalue for="5" value="0.0019724765573897875" />
-          <attvalue for="6" value="3.2687051300287315e-08" />
+          <attvalue for="6" value="3.268705134446937e-08" />
           <attvalue for="7" value="6440900" />
           <attvalue for="9" value="4.0" />
           <attvalue for="8" value="537462812.02" />
@@ -12375,7 +12375,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.02088636151421208" />
           <attvalue for="5" value="0.0008674619784314956" />
-          <attvalue for="6" value="2.5665095968377715e-10" />
+          <attvalue for="6" value="2.566509627704043e-10" />
           <attvalue for="7" value="4646001" />
           <attvalue for="9" value="4.0" />
           <attvalue for="8" value="2000000000.0" />
@@ -12532,7 +12532,7 @@
           <attvalue for="3" value="0.0006553558488637066" />
           <attvalue for="4" value="0.02271067951739171" />
           <attvalue for="5" value="0.0008600149873636052" />
-          <attvalue for="6" value="1.2249314382671484e-05" />
+          <attvalue for="6" value="1.2249314382672514e-05" />
           <attvalue for="7" value="6110801" />
           <attvalue for="9" value="7.0" />
           <attvalue for="8" value="32538937370.0" />
@@ -12832,7 +12832,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.015229514295574025" />
           <attvalue for="5" value="0.0009558845510000739" />
-          <attvalue for="6" value="8.243307515973893e-06" />
+          <attvalue for="6" value="8.243307515989507e-06" />
           <attvalue for="7" value="4685100" />
           <attvalue for="9" value="12.0" />
           <attvalue for="8" value="1433653000.0" />
@@ -12950,9 +12950,9 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.022612110431318545" />
           <attvalue for="5" value="0.001527029449430018" />
-          <attvalue for="6" value="6.206007080584475e-10" />
+          <attvalue for="6" value="6.20600337917031e-10" />
           <attvalue for="7" value="6463800" />
-          <attvalue for="9" value="7.0" />
+          <attvalue for="9" value="13.0" />
           <attvalue for="8" value="194593589.71" />
         </attvalues>
       </node>
@@ -12977,7 +12977,7 @@
           <attvalue for="3" value="0.0004306624149675786" />
           <attvalue for="4" value="0.019298140849234063" />
           <attvalue for="5" value="0.003093106547053628" />
-          <attvalue for="6" value="2.725157013700869e-11" />
+          <attvalue for="6" value="2.725145148402451e-11" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="5.0" />
           <attvalue for="8" value="277181809.47" />
@@ -13030,7 +13030,7 @@
           <attvalue for="3" value="0.003362911727312049" />
           <attvalue for="4" value="0.030843266536491016" />
           <attvalue for="5" value="0.0015793993911682172" />
-          <attvalue for="6" value="0.0003291112322716584" />
+          <attvalue for="6" value="0.0003291112322716622" />
           <attvalue for="7" value="2943300" />
           <attvalue for="9" value="0.0" />
           <attvalue for="8" value="600000001.32" />
@@ -13057,7 +13057,7 @@
           <attvalue for="3" value="0.0007564678941169642" />
           <attvalue for="4" value="0.024892588905495235" />
           <attvalue for="5" value="0.0009804559394202925" />
-          <attvalue for="6" value="4.3041503197144185e-07" />
+          <attvalue for="6" value="4.30415031969035e-07" />
           <attvalue for="7" value="2920401" />
           <attvalue for="9" value="7.0" />
           <attvalue for="8" value="2334052461.6" />
@@ -13084,7 +13084,7 @@
           <attvalue for="3" value="0.00359322249705558" />
           <attvalue for="4" value="0.031854463866980175" />
           <attvalue for="5" value="0.002209255860137768" />
-          <attvalue for="6" value="3.465438715913764e-05" />
+          <attvalue for="6" value="3.4654387159120285e-05" />
           <attvalue for="7" value="2930101" />
           <attvalue for="9" value="0.0" />
           <attvalue for="8" value="2000000000.0" />
@@ -13098,7 +13098,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.014605282814318332" />
           <attvalue for="5" value="0.0006988564129972642" />
-          <attvalue for="6" value="6.686615432243147e-14" />
+          <attvalue for="6" value="6.685251626111768e-14" />
           <attvalue for="7" value="0161099" />
           <attvalue for="9" value="5.0" />
           <attvalue for="8" value="2012521509.85" />
@@ -13125,7 +13125,7 @@
           <attvalue for="3" value="0.00022282098861366024" />
           <attvalue for="4" value="0.02306805333174146" />
           <attvalue for="5" value="0.0016612054362163515" />
-          <attvalue for="6" value="2.2129230189135513e-09" />
+          <attvalue for="6" value="2.2129230235155805e-09" />
           <attvalue for="7" value="1710900" />
           <attvalue for="9" value="7.0" />
           <attvalue for="8" value="6075624836.0" />
@@ -13243,7 +13243,7 @@
           <attvalue for="3" value="0.0047372865646433645" />
           <attvalue for="4" value="0.029708294318916847" />
           <attvalue for="5" value="0.0016711721482312704" />
-          <attvalue for="6" value="0.009310481623152919" />
+          <attvalue for="6" value="0.009310481623152926" />
           <attvalue for="7" value="6462000" />
           <attvalue for="9" value="0.0" />
           <attvalue for="8" value="344694181.68" />
@@ -13322,9 +13322,9 @@
           <attvalue for="3" value="9.362226412338665e-07" />
           <attvalue for="4" value="0.023397478653578968" />
           <attvalue for="5" value="0.003238500238152706" />
-          <attvalue for="6" value="1.450134595858548e-09" />
+          <attvalue for="6" value="1.4501338141558675e-09" />
           <attvalue for="7" value="6463800" />
-          <attvalue for="9" value="7.0" />
+          <attvalue for="9" value="13.0" />
           <attvalue for="8" value="8248211765.01" />
         </attvalues>
       </node>
@@ -13401,7 +13401,7 @@
           <attvalue for="3" value="0.0006609731847111098" />
           <attvalue for="4" value="0.01668793955934554" />
           <attvalue for="5" value="0.002439065833932673" />
-          <attvalue for="6" value="1.912523646855413e-12" />
+          <attvalue for="6" value="1.9124991186785966e-12" />
           <attvalue for="7" value="4713004" />
           <attvalue for="9" value="5.0" />
           <attvalue for="8" value="9022276536.63" />
@@ -13441,7 +13441,7 @@
           <attvalue for="3" value="0.0004306624149675786" />
           <attvalue for="4" value="0.019298140849234063" />
           <attvalue for="5" value="0.003093106547053628" />
-          <attvalue for="6" value="2.7251589929935366e-11" />
+          <attvalue for="6" value="2.7251456823306965e-11" />
           <attvalue for="7" value="1721400" />
           <attvalue for="9" value="5.0" />
           <attvalue for="8" value="566894847.81" />
@@ -13455,7 +13455,7 @@
           <attvalue for="3" value="0.00022282098861366024" />
           <attvalue for="4" value="0.02865388700953366" />
           <attvalue for="5" value="0.002270501794248072" />
-          <attvalue for="6" value="1.6801990537437042e-08" />
+          <attvalue for="6" value="1.680199057998777e-08" />
           <attvalue for="7" value="3600601" />
           <attvalue for="9" value="11.0" />
           <attvalue for="8" value="1682328353.37" />
@@ -13521,7 +13521,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.02088636151421208" />
           <attvalue for="5" value="0.0008674619784314956" />
-          <attvalue for="6" value="2.5665095968377715e-10" />
+          <attvalue for="6" value="2.566509627704043e-10" />
           <attvalue for="7" value="4120400" />
           <attvalue for="9" value="4.0" />
           <attvalue for="8" value="365467421.9" />
@@ -13574,7 +13574,7 @@
           <attvalue for="3" value="0.0" />
           <attvalue for="4" value="0.032619225076688324" />
           <attvalue for="5" value="0.0016047418253404898" />
-          <attvalue for="6" value="2.028435029749548e-07" />
+          <attvalue for="6" value="2.0284350303127188e-07" />
           <attvalue for="7" value="1621800" />
           <attvalue for="9" value="4.0" />
           <attvalue for="8" value="3370188626.8" />

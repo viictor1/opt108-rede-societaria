@@ -1,8 +1,8 @@
 """
-Etapa 1 do pipeline: baixa os dados abertos do CNPJ (Receita Federal) e filtra
-só o que interessa pro projeto.
+Etapa 1 do pipeline. Baixa os dados abertos do CNPJ (Receita Federal) e filtra
+só o que interessa para o projeto.
 
-Recorte: Sociedades Anônimas Abertas (natureza jurídica 2046), que são as
+O recorte são as Sociedades Anônimas Abertas (natureza jurídica 2046), que são as
 empresas com conselho de administração e diretoria registrados no QSA.
 
 Saída em data/:
@@ -14,9 +14,9 @@ Uso:
   python 01_preparar_dados.py            # baixa (se precisar) e filtra
   python 01_preparar_dados.py --raw DIR  # usa zips que já estão em DIR
 
-Fonte: espelho no GitHub dos arquivos da Receita (snapshot 2024-09),
+A fonte é um espelho no GitHub dos arquivos da Receita (snapshot de 2024-09),
 https://github.com/jonathands/dados-abertos-receita-cnpj
-Original: https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/
+Os originais ficam em https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/
 """
 import argparse
 import csv
@@ -75,7 +75,7 @@ def main():
     os.makedirs(a.raw, exist_ok=True)
     os.makedirs(a.out, exist_ok=True)
 
-    # 1) Empresas: filtra natureza jurídica 2046
+    # 1) Empresas, filtrando a natureza jurídica 2046
     print("Empresas (natureza 2046)...")
     emp = []
     for i in range(10):
